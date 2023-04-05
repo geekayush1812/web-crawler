@@ -1,19 +1,19 @@
 # Web Crawler
 
 - Clone the repo
-```git clone```
+    - ```git clone```
 
 - Install nvm
 
 - Install node
-```nvm install```
+    - ```nvm install```
 
 - Install dependencies
-```npm install```
-
-- Run the app
-```npm start```
+    - ```npm install```
 
 - Run the tests
-```npm test```
+    - ```npm test```
+
+- Run the app
+    - ```npm start```
 
